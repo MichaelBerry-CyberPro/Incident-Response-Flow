@@ -19,6 +19,8 @@ This project outlines a structured Incident Response (IR) flow that can be appli
 5. **Recovery** – Restore systems to normal operations securely
 6. **Lessons Learned** – Conduct post-incident review, update documentation, refine response plans
 
+![image alt](https://github.com/MichaelBerry-CyberPro/Incident-Response-Flow/blob/main/Incident%20Response%20Flow.png?raw=true)
+
 ## Tools & Technologies
 - SIEM platforms (Splunk, Microsoft Sentinel)
 - Threat detection tools (IDS/IPS, EDR solutions)
